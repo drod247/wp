@@ -1,1 +1,1 @@
-# wp
+# WordPress theme VSDG
